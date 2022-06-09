@@ -1,0 +1,14 @@
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.exe
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.deps.json
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.runtimeconfig.json
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.runtimeconfig.dev.json
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.dll
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\bin\Debug\netcoreapp3.1\deliverable_1.pdb
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.csproj.AssemblyReference.cache
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.AssemblyInfoInputs.cache
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.AssemblyInfo.cs
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.csproj.CoreCompileInputs.cache
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.dll
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.pdb
+H:\grand circus\prework\deliverable_1\deliverable_1\deliverable_1\obj\Debug\netcoreapp3.1\deliverable_1.genruntimeconfig.cache
